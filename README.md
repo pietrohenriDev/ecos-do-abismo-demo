@@ -18,16 +18,4 @@ py -3 main.py
 - **R**: reiniciar depois de vencer ou perder
 - **Esc**: sair
 
-## Escopo
-
-Esta primeira versão tem um único chefe, o **Rei do Abismo**, com duas fases. A prioridade é estabilidade, leitura do combate e sensação de impacto antes da expansão de conteúdo.
-
-A luta usa:
-
-- introdução cinematográfica;
-- telegráficos quentes antes do dano;
-- flash e partículas no impacto;
-- transformação agressiva na metade da vida;
-- pressão visual da arena;
-- vórtices e ondas de partículas;
-- timing controlado para cada padrão.
+A demo contém um único chefe, o **Rei do Abismo**, com duas fases, introdução cinematográfica, telegráficos claros, impacto visual, transformação agressiva, pressão da arena e vórtices de partículas.
